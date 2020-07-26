@@ -16,16 +16,28 @@
 
 ## Books
 
+- [Living Well on the Spectrum: How to Use Your Strengths to Meet the Challenges of Asperger Syndrome/High-Functioning Autism](https://www.goodreads.com/book/show/9245294-living-well-on-the-spectrum)
+Explains traits and offers strategies for various aspects of life skills and domains of functioning
+
 ## Organizations
 
+- [AANE](https://www.aane.org/)
+
 ## Communities
+
+- [Aspergers Subreddit](https://www.reddit.com/r/aspergers/) A friendly and helpful Reddit community
 
 ## Video Resources
 
 ### Video Resources for Women
+
+- [Tony Attwood - Aspergers in Girls](https://www.youtube.com/watch?v=wfOHnt4PMFo)
+- [Girls and Women and Autism: What’s the difference? - Sarah Hendrickx](https://www.youtube.com/watch?v=yKzWbDPisNk)
 
 ## Podcasts
 
 ## Ally Resources
 
 ## Resources for Programmers
+
+- [A Great Poster from the UK Home office on designing for disabilities](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf)
