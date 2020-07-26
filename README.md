@@ -14,12 +14,12 @@
 - [Ally Resources](#ally-resources)
 - [Resources for Programmers](#resources-for-programmers)
 
-## Books
+## :blue_book: Books
 
 - [Living Well on the Spectrum: How to Use Your Strengths to Meet the Challenges of Asperger Syndrome/High-Functioning Autism](https://www.goodreads.com/book/show/9245294-living-well-on-the-spectrum)
 Explains traits and offers strategies for various aspects of life skills and domains of functioning
 
-## Organizations
+## :office: Organizations
 
 - [AANE](https://www.aane.org/)
 
@@ -27,9 +27,9 @@ Explains traits and offers strategies for various aspects of life skills and dom
 
 - [Aspergers Subreddit](https://www.reddit.com/r/aspergers/) A friendly and helpful Reddit community
 
-## Video Resources
+## :computer: Video Resources
 
-### Video Resources for Women
+### :woman: Video Resources for Women
 
 - [Tony Attwood - Aspergers in Girls](https://www.youtube.com/watch?v=wfOHnt4PMFo)
 - [Girls and Women and Autism: What’s the difference? - Sarah Hendrickx](https://www.youtube.com/watch?v=yKzWbDPisNk)
