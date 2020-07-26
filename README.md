@@ -11,13 +11,16 @@
 - [Communities](#communities)
 - [Video Resources](#video-resources)
 - [Podcasts](#podcasts)
+- [Work and Accomodations](#work-and-accomodation-resources)
 - [Ally Resources](#ally-resources)
 - [Resources for Programmers](#resources-for-programmers)
+- [Link to Useful Blogs](BlogPosts.md)
 
 ## :blue_book: Books
 
 - [Living Well on the Spectrum: How to Use Your Strengths to Meet the Challenges of Asperger Syndrome/High-Functioning Autism](https://www.goodreads.com/book/show/9245294-living-well-on-the-spectrum)
-Explains traits and offers strategies for various aspects of life skills and domains of functioning
+Explains traits in detail and offers strategies for various aspects of life skills and domains of functioning
+- [Aspergers Survival Guide](https://www-users.cs.york.ac.uk/alistair/survival/survival.pdf) A short read with basic tips and coping strategies
 
 ## :office: Organizations
 
@@ -36,8 +39,19 @@ Explains traits and offers strategies for various aspects of life skills and dom
 
 ## Podcasts
 
+## Work and Accomodation Resources
+
+[JAN Accomodation Ideas](https://askjan.org/disabilities/Autism-Spectrum.cfm?cssearch=2619754_1)
+
 ## Ally Resources
 
 ## Resources for Programmers
 
 - [A Great Poster from the UK Home office on designing for disabilities](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf)
+
+## Contributing
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+
+Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for more details on how to suggest awesome resources or other modifications to the list. 
+
+All contributors are expected to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) of the project. (Contributor Covenant)
