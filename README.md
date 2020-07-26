@@ -56,6 +56,9 @@ Apps to help deal with anxiety, depression or autism traits
 
 - [A Great Poster from the UK Home office on designing for disabilities](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf)
 
+---
+
+*For awesome autism media check out this list: [awesome-autism-movies-tv](https://github.com/aspergirl-git/awesome-autism-movies-tv)*
 ## Contributing
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 

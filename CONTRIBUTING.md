@@ -7,4 +7,4 @@
     * Add the section title to Table of Contents.
 - Update one section per PR.
 - Check spelling and grammar.
-- Descriptive PR proposal are highly appreciated
+- Descriptive PR proposals are highly appreciated
