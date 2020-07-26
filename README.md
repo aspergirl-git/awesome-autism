@@ -1,7 +1,6 @@
 # awesome-autism    [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > :sparkles: A curated list of awesome resources for ASD and Asperger's Syndrome
-currently in beta
 
 [CDC Definition](https://www.cdc.gov/ncbddd/autism/hcp-dsm.html)
 
