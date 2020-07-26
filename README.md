@@ -1,6 +1,7 @@
 # awesome-autism    [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list of awesome resources for ASD and Asperger's Syndrome
+> :sparkles: A curated list of awesome resources for ASD and Asperger's Syndrome
+currently in beta
 
 [CDC Definition](https://www.cdc.gov/ncbddd/autism/hcp-dsm.html)
 
@@ -11,6 +12,7 @@
 - [Communities](#communities)
 - [Video Resources](#video-resources)
 - [Podcasts](#podcasts)
+- [Applications](#applications)
 - [Work and Accomodations](#work-and-accomodation-resources)
 - [Ally Resources](#ally-resources)
 - [Resources for Programmers](#resources-for-programmers)
@@ -24,7 +26,8 @@ Explains traits in detail and offers strategies for various aspects of life skil
 
 ## :office: Organizations
 
-- [AANE](https://www.aane.org/)
+- [AANE](https://www.aane.org/) The Asperger/Autism Network (AANE) helps people with Asperger’s and similar autism spectrum and neurodiverse profiles build meaningful, connected lives.
+- [Felicity House NYC](https://felicity-house.org/) NYC non-profit community space that organizes events for women with autism.
 
 ## Communities
 
@@ -39,9 +42,14 @@ Explains traits in detail and offers strategies for various aspects of life skil
 
 ## Podcasts
 
-## Work and Accomodation Resources
+## :iphone: Applications
 
-[JAN Accomodation Ideas](https://askjan.org/disabilities/Autism-Spectrum.cfm?cssearch=2619754_1)
+Apps to help deal with anxiety, depression or autism traits
+- [Woebot for mood tracking and tiny conversations](https://woebot.io/)
+
+## Work and Accommodation Resources
+
+[JAN Accommodation Ideas](https://askjan.org/disabilities/Autism-Spectrum.cfm?cssearch=2619754_1)
 
 ## Ally Resources
 
@@ -52,6 +60,6 @@ Explains traits in detail and offers strategies for various aspects of life skil
 ## Contributing
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for more details on how to suggest awesome resources or other modifications to the list. 
+Please see [CONTRIBUTING](CONTRIBUTING.md) for more details on how to suggest awesome resources or other modifications to the list. 
 
 All contributors are expected to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) of the project. (Contributor Covenant)
