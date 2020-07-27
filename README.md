@@ -6,12 +6,12 @@
 
 ## Contents
 
-- [Books](#books)
-- [Organizations](#organizations)
+- [Books](#blue_book-books)
+- [Organizations](#office-organizations)
 - [Communities](#communities)
-- [Video Resources](#video-resources)
+- [Video Resources](#computer-video-resources)
 - [Podcasts](#podcasts)
-- [Applications](#applications)
+- [Applications](#iphone-applications)
 - [Work and Accomodations](#work-and-accomodation-resources)
 - [Ally Resources](#ally-resources)
 - [Resources for Programmers](#resources-for-programmers)
@@ -33,6 +33,8 @@ Explains traits in detail and offers strategies for various aspects of life skil
 - [Aspergers Subreddit](https://www.reddit.com/r/aspergers/) A friendly and helpful Reddit community
 
 ## :computer: Video Resources
+
+- [How to Flirt and Get a Date](https://www.youtube.com/watch?v=eIqFrbgBEQY)
 
 ### :woman: Video Resources for Women
 
