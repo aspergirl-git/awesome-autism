@@ -34,6 +34,7 @@ Explains traits in detail and offers strategies for various aspects of life skil
 
 ## :computer: Video Resources
 
+- [Pros and Cons of Seeking an Adult Diagnosis - Aspergers/Autism/ASD](https://www.youtube.com/watch?v=hldgVARMQjQ)
 - [How to Flirt and Get a Date](https://www.youtube.com/watch?v=eIqFrbgBEQY)
 
 ### :woman: Video Resources for Women
