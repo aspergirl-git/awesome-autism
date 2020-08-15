@@ -1,4 +1,5 @@
 # awesome-autism    [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pastel_Neurodiversity_Symbol.png/1200px-Pastel_Neurodiversity_Symbol.png" align="left" height="48" width="100" >
 
 > :sparkles: A curated list of awesome resources for ASD and Asperger's Syndrome
 
