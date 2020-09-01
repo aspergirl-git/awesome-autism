@@ -37,6 +37,7 @@ Explains traits in detail and offers strategies for various aspects of life skil
 
 - [Pros and Cons of Seeking an Adult Diagnosis - Aspergers/Autism/ASD](https://www.youtube.com/watch?v=hldgVARMQjQ)
 - [How to Flirt and Get a Date](https://www.youtube.com/watch?v=eIqFrbgBEQY)
+- [Youtuber talks about masking, internalised ableism and adult diagnosis](https://www.youtube.com/watch?v=qXynK-rfAnA)
 
 ### :woman: Video Resources for Women
 
@@ -49,6 +50,7 @@ Explains traits in detail and offers strategies for various aspects of life skil
 
 Apps to help deal with anxiety, depression or autism traits
 - [Woebot for mood tracking and tiny conversations](https://woebot.io/)
+- [Calm](https://www.calm.com/) and [Insight timer](https://insighttimer.com/) apps for meditation 
 
 ## Work and Accommodation Resources
 
