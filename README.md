@@ -32,10 +32,10 @@ Explains traits in detail and offers strategies for various aspects of life skil
 ## Communities
 
 - [Aspergers Subreddit](https://www.reddit.com/r/aspergers/) A friendly and helpful Reddit community
+- [Aspergirls Subreddit](https://www.reddit.com/r/aspergirls/) Life skills and healthy coping mechanisms for the ASD community
 
 ## :computer: Video Resources
 
-- [Pros and Cons of Seeking an Adult Diagnosis - Aspergers/Autism/ASD](https://www.youtube.com/watch?v=hldgVARMQjQ)
 - [How to Flirt and Get a Date](https://www.youtube.com/watch?v=eIqFrbgBEQY)
 - [Youtuber talks about masking, internalised ableism and adult diagnosis](https://www.youtube.com/watch?v=qXynK-rfAnA)
 - [Alexithymia and Autism: What is it, coping and tips](https://www.youtube.com/watch?v=Fl-aKRdzLyQ)
