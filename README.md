@@ -52,6 +52,7 @@ Explains traits in detail and offers strategies for various aspects of life skil
 Apps to help deal with anxiety, depression or autism traits
 - [Woebot for mood tracking and tiny conversations](https://woebot.io/)
 - [Calm](https://www.calm.com/) and [Insight timer](https://insighttimer.com/) apps for meditation 
+- [Vortle] (https://www.vortle.com) Sensory friendly games for emotional regulation
 
 ## Work and Accommodation Resources
 
